@@ -71,6 +71,31 @@ body {
   background: #09f;
 }
 
+.dropend {
+  width: 100%;
+}
+
+.accordion {
+  border: none;
+  color: #fff;
+}
+
+.accordion ul {
+  color: #fff;
+  list-style: none;
+}
+.accordion-item{
+  color: #fff;
+  border: none;
+}
+
+
+
+.accordion ul li{
+  color: #fff;
+  list-style: none;
+}
+
 /*----------------------------------Breadcrumb---------------------------------------------*/
 
 .breadcrumb {
