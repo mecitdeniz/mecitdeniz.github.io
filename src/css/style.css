@@ -5,6 +5,11 @@
 body {
   font-family: sans-serif;
 }
+
+.service-container{
+  padding: 0 15%;
+}
+
 .wave-container {
   position: relative;
   background: #09f;
