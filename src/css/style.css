@@ -74,6 +74,7 @@ body {
 
 .dropdown-menu li :active {
   background: #09f;
+  color: #fff;
 }
 
 .dropend {
