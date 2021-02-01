@@ -6,10 +6,6 @@ body {
   font-family: sans-serif;
 }
 
-.service-container{
-  padding: 0 10%;
-}
-
 .wave-container {
   position: relative;
   background: #09f;
@@ -46,7 +42,6 @@ body {
   font-weight: 600;
   color: #fff;
 }
-
 
 .navbar-toggler-icon {
   color: #fff;
@@ -90,14 +85,12 @@ body {
   color: #fff;
   list-style: none;
 }
-.accordion-item{
+.accordion-item {
   color: #fff;
   border: none;
 }
 
-
-
-.accordion ul li{
+.accordion ul li {
   color: #fff;
   list-style: none;
 }
@@ -133,7 +126,7 @@ body {
 }
 
 .hero-title {
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 600;
   margin-top: 5%;
 }
@@ -147,17 +140,39 @@ body {
 #services {
   padding: 10px 0;
 }
+
+.service-container {
+  padding: 0 10%;
+}
+
 .service-img {
-  width: 100px;
+  height: 100px;
   margin-top: 20px;
 }
+
 .services {
   padding: 20px;
+  justify-content: space-between;
 }
+
+.services:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: translate(-10px,-10px);
+}
+
 .services h4 {
   padding: 5px;
   margin-top: 25px;
   text-transform: uppercase;
+}
+
+.services h4:hover {
+  color: #09f;
+  text-decoration: underline;
+}
+
+.services p {
+  text-align: center;
 }
 
 #services .btn-primary {
@@ -242,6 +257,19 @@ body {
   color: #fff;
 }
 
+#footer p {
+  font-size: 14px;
+}
+
+.footer-description {
+  text-align: justify;
+}
+
+.footer-title {
+  font-size: 18px;
+  text-align: center;
+}
+
 .footer-box {
   padding: 20px;
 }
@@ -285,10 +313,6 @@ hr {
 
 /*-------------------------------Bio Section----------------------------------------------*/
 
-#bio {
-  padding: 10px 0;
-}
-
 .bio-img {
   width: 200px;
   height: 200px;
@@ -305,9 +329,8 @@ hr {
 }
 .bio-p {
   font-size: 18px;
+  font-family: "Open Sans Condensed", sans-serif;
   line-height: 1.8;
-  text-indent: 50px;
-  letter-spacing: 2px;
   word-spacing: 5px;
   text-align: justify;
 }
@@ -337,9 +360,11 @@ hr {
 #description p {
   color: #111;
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  line-height: 28px;
   margin: 0 0 24px;
+  font-size: 18px;
+  line-height: 1.8;
+  word-spacing: 5px;
+  text-align: justify;
 }
 
 .divider {
