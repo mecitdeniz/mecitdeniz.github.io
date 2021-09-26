@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mecitdeniz</title>
+    <description></description>
+    <link>http://mecitdeniz.me/mecitdeniz/</link>
+    <atom:link href="http://mecitdeniz.me/mecitdeniz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Sep 2021 17:19:56 +0300</pubDate>
+    <lastBuildDate>Sun, 26 Sep 2021 17:19:56 +0300</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>My First Blog Post</title>
+        <description>&lt;h1&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, &lt;code&gt;commodo vitae&lt;/code&gt;, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis. Ut felis.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Sep 2021 16:58:36 +0300</pubDate>
+        <link>http://mecitdeniz.me/mecitdeniz/my-first-blog-post</link>
+        <guid isPermaLink="true">http://mecitdeniz.me/mecitdeniz/my-first-blog-post</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
